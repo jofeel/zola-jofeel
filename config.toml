@@ -2,6 +2,12 @@
 theme = "even"
 title = "我的网站"
 
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
 # The URL the site will be built for
 base_url = "https://jofeel.com/zola-jofeel/"
 
