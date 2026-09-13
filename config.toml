@@ -1,7 +1,6 @@
 # 20260913
 theme = "xuan"
 title = "我的网站"
-base_url = "https://example.com"
 
 # The URL the site will be built for
 base_url = "https://example.com"
