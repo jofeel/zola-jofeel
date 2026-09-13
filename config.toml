@@ -3,7 +3,7 @@ theme = "xuan"
 title = "我的网站"
 
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://jofeel.com/zola-jofeel/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
